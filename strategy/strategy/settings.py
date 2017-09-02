@@ -25,7 +25,7 @@ SECRET_KEY = 'zpd@*3h#by1#=6n^f10-2ng+m4((9gm6&ln%-66=-%vkq6&0_u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ddelpizz.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'delpizzo101.pythonanywhere.com']
 
 
 # Application definition
